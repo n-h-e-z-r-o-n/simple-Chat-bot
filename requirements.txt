@@ -1,0 +1,8 @@
+pillow
+vosk
+pyaudio
+pyttsx3
+numpy
+nltk
+keras
+Pillow

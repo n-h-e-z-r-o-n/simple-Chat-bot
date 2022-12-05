@@ -1,0 +1,71 @@
+{"intents": [
+  { "tag": "purity",
+     "inputs": ["Purity", "purity", "hi", "good day", "", "What’s up?"],
+     "responses": ["Hi, How is it going?"]
+  },
+  { "tag": "name",
+     "inputs": ["what is your name", "what should i call you", "who are you?", "can you tell me your name"],
+     "responses": ["You can call me Purity", "I'm Purity", "I am Purity", "I am Purity a virtual assistant", "I go by many names, but you can call me Purity"]
+  },
+  { "tag": "greetings",
+     "inputs": ["hello", "hey", "hi", "good day", "", "What’s up?"],
+     "responses": ["hello", "hey", "hey", "what can i do for you" ]
+  },
+   { "tag": "greetings1",
+     "inputs": ["How are you"],
+     "responses": ["Am Fine, How about you "]
+  },
+
+  { "tag": "morning",
+     "inputs": ["Good Morning", "hey", "hi", "good day", "", "What’s up?"],
+     "responses": ["op of the morning to you!", "Good Morning to you to, What a lovely day", "hey", "what can i do for you" ]
+  },
+  { "tag": "Eveining",
+     "inputs": [],
+     "responses": [ ]
+  },
+  { "tag": "AfterNoon",
+     "inputs": [],
+     "responses": [ ]
+  },
+   { "tag": "goodNight",
+     "inputs": [],
+     "responses": [ ]
+  },
+
+  { "tag": "goodbye",
+     "inputs": ["see you later", "Goodbye", "Have a good day", "I am leaving"],
+     "responses": ["Bye, talk to you later", "Stay safe, goodbye", "I was nice to be acquainted, Goodbye", "what can i do for you"]
+  },
+
+  { "tag": "About Me",
+     "inputs": ["Are you a robot"],
+     "responses": ["I am a robot, but I’m a good one. Let me prove it. How can I help you"]
+  },
+    { "tag": "Owner",
+     "inputs": ["Who is your boss", " Who is your", "Who is your creaters"],
+     "responses": ["Purity, Angela, Hezron and Ajak"]
+  },
+  { "tag": "language",
+     "inputs": ["Do you speak English"],
+     "responses": ["Yes, English is my primary Language", "Yes, English is my Mother language"]
+  }
+  ,
+  { "tag": "jokes",
+     "inputs": ["Tell me a joke", "I want to hear a joke", "tell me something funny"],
+     "responses": ["I never forget a face, but in your case I'll make an exception.",
+                   "two vultures boarded a plane, each carrying two dead raccoons. the  stewardess stops them and says 'sorry sir, only one carrion per  passenger.'",
+      "A 3-legged dog walks into an old west saloon, slides up to the bar and announces ' I am looking for the man who shot my paw.'",
+       "Funny"
+
+                   ]
+  },
+  { "tag": "language",
+     "inputs": ["Do you speak English"],
+     "responses": ["Yes, English is my primary Language", "Yes, English is my Mother language"]
+  }
+
+
+
+
+] }
